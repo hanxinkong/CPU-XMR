@@ -1,0 +1,2 @@
+# CPU-XMR
+CPU _ XMR
